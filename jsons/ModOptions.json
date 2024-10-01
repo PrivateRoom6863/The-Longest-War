@@ -1,5 +1,5 @@
 {
 	"constants": {
-		"minimumWarDuration": 1000
+		"minimumWarDuration": 999999
         }
 }
